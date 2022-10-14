@@ -101,7 +101,7 @@ html {
 .home {
   display: flex;
   height: 100vh;
-  background: url(../images/banner-image.png) no-repeat center;
+  background-color: #111;
   background-size: cover;
   color: whitesmoke;
   min-height: 500px;
